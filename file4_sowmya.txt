@@ -1,2 +1,7 @@
 Hi this is the file created by sowmya gitbash
+<<<<<<< HEAD
+Second line created by sowmya
 
+=======
+Second line created by sowmya
+>>>>>>> sowmya
