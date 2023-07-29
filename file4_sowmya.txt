@@ -1,3 +1,7 @@
 Hi this is the file created by sowmya gitbash
-Second line created by sumanya_ 2nd conflict
+<<<<<<< HEAD
+Second line created by sowmya
 
+=======
+Second line created by sowmya
+>>>>>>> sowmya
